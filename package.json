@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "mongodb": "^6.17.0",
     "my-nextjs-form-app": "file:",
     "next": "latest",
     "react": "latest",
