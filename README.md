@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Next.js Form App
 
 This is a simple Next.js application that demonstrates a basic form implementation. The application allows users to input their data and submit it, showcasing local state management and form handling in React.
@@ -61,3 +62,7 @@ If you would like to contribute to this project, please fork the repository and 
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+=======
+# my-nextjs-app
+firstnextjs application
+>>>>>>> 47cf9509e550853a34efb290d38b3bcf21c4897a
