@@ -11,7 +11,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-       <h1>🔥 testing pipeline</h1>
+       <h1>🔥 testing pipeline2</h1>
         {children}
         <footer>© 2025</footer></body>
     </html>
